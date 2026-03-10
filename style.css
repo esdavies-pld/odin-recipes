@@ -1,0 +1,18 @@
+h1 {
+    background-color: beige;
+    color: gray;
+}
+
+ul {
+    color: red;
+}
+
+ol {
+    color: green
+}
+
+.ingredients {
+    background-color: beige;
+    color: gray;
+    padding: 10px;
+}
